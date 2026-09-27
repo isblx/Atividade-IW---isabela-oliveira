@@ -1077,12 +1077,11 @@ h2 {
 }
 
 
-.map-section {
-    max-width: 1200px;
-
-    margin: 0 auto;
-
-    padding: 0 6% 100px;
+.map-section iframe {
+    width: 100%;
+    height: 350px;
+    border-radius: 20px;
+    border: 1px solid var(--border);
 }
 
 .map-placeholder {

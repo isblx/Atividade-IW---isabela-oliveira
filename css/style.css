@@ -239,7 +239,7 @@ textarea {
 
     margin-bottom: 25px;
 }
-
+/*bolinha do evento presencial*/
 .pulse {
     width: 7px;
     height: 7px;
@@ -273,7 +273,7 @@ textarea {
 
     margin-bottom: 30px;
 }
-
+/*gradient do "futuro"*/
 .hero h1 span,
 h2 span {
     color: transparent;
@@ -305,9 +305,6 @@ h2 span {
     gap: 15px;
     flex-wrap: wrap;
 }
-
-
-/* BUTTONS */
 
 .primary-button {
     display: inline-flex;
@@ -374,7 +371,7 @@ h2 span {
 }
 
 
-
+/*inovation tech people*/
 .hero-decoration {
     position: absolute;
 
@@ -1176,7 +1173,7 @@ h2 {
     opacity: .5;
 }
 
-
+/*bolinha do presencial*/
 @keyframes pulse {
     0%, 100% {
         opacity: 1;
